@@ -4,4 +4,3 @@ git again after a
 fev day later
 
 hello world
-checking for revert command
